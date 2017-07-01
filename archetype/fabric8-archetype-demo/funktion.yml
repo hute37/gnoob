@@ -1,0 +1,6 @@
+flows:
+  - steps:
+    - kind: endpoint
+      uri: http
+    - kind: function
+      name: org.none.gnoob.demo.Main
